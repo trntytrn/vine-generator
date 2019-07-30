@@ -35,6 +35,7 @@ var vines = ["hi, welcome to chili's",
 
 var button = $('.button')
 var output = $('h2')
+var clear = $('.clear')
 
 button.on("click", doSomething);
 
@@ -45,4 +46,11 @@ function doSomething() {
   var vine = Math.floor(Math.random() * vines.length);
   var vineOutput = vines[vine];
   output.text(vineOutput);
+}
+
+clear.on("click", clearVine);
+
+
+function clearVine() {
+  output.text("vine will appear here")
 }
