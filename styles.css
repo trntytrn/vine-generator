@@ -35,16 +35,16 @@ font-family: 'Special Elite', cursive;
 	.button {
     border: 5px dashed #00A378;
     padding: 10px;
-    margin-left: 200px;
-    margin-right: 200px;
+/*     margin-left: 200px;
+    margin-right: 200px; */
     background: white;
     height: 200px;
 	}
   h1 {
     border: 5px dashed #00A378;
     padding: 10px;
-    margin-left: 200px;
-    margin-right: 200px;
+/*     margin-left: 200px;
+    margin-right: 200px; */
     background: white;
     font-size: 15px;
   }
@@ -52,8 +52,8 @@ font-family: 'Special Elite', cursive;
   h2 {
     border: 5px dashed #00A378;
     padding: 10px;
-    margin-left: 200px;
-    margin-right: 200px;
+/*     margin-left: 200px;
+    margin-right: 200px; */
     background: white;
     font-size: 10px;
   }
