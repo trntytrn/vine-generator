@@ -30,7 +30,7 @@ font-family: 'Special Elite', cursive;
   }
 }
 
-@media all and (max-width: 600px) {
+/* @media all and (max-width: 600px) {
   /* for mobile */
 	.button {
     border: 5px dashed #00A378;
@@ -61,3 +61,4 @@ h3 {
   font-size: 5px
 }
 }
+ */
