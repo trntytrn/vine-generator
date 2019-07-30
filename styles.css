@@ -28,12 +28,12 @@ font-family: 'Special Elite', cursive;
   margin-right: 200px;
   background: white;
   }
-  .clear {
-  border: 5px dashed #00A378;
+.clear {
+  border: 0px solid white;
   padding: 10px;
   margin-left: 200px;
   margin-right: 200px;
-  background: white;
+  background-color: transparent;
   width: 200px;
   font-size: 20px;
   font-family: 'Special Elite', cursive;
