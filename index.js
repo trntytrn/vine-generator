@@ -52,5 +52,6 @@ clear.on("click", clearVine);
 
 
 function clearVine() {
-  output.text("vine will appear here")
+ event.preventDefault();
+  output.text("vine will appear here");
 }
