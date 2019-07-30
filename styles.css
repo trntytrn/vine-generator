@@ -28,7 +28,7 @@ font-family: 'Special Elite', cursive;
   margin-right: 200px;
   background: white;
   }
-  .clear {
+/*   .clear {
   border: 5px dashed #00A378;
   padding: 10px;
   margin-left: 200px;
@@ -37,7 +37,8 @@ font-family: 'Special Elite', cursive;
   width: 200px;
   font-size: 20px;
   font-family: 'Special Elite', cursive;
-  }
+  } */
+}
  @media all and (max-width: 600px) {
   /* for mobile */
 	 .button {
@@ -68,7 +69,7 @@ font-family: 'Special Elite', cursive;
 h3 {
   font-size: 5px
 }
-.clear {
+/* .clear {
 border: 5px dashed #00A378;
 padding: 10px;
 margin-left: 200px;
@@ -77,5 +78,5 @@ background: white;
 width: 200px;
 font-family: 'Special Elite', cursive;
 font-size: 10px;
-}
+} */
 }
