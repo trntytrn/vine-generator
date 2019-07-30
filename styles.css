@@ -69,11 +69,11 @@ h3 {
   font-size: 5px
 }
 .clear {
-border: 5px dashed #00A378;
+border: 0px solid white;
 padding: 10px;
 margin-left: 200px;
 margin-right: 200px;
-background: white;
+background-color: transparent;
 width: 200px;
 font-family: 'Special Elite', cursive;
 font-size: 10px;
