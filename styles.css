@@ -1,0 +1,63 @@
+body {
+text-align: center;
+background-image: url("https://images.all-free-download.com/images/graphiclarge/olive_background_multicolored_flat_decor_fruit_leaf_icons_6832061.jpg");
+font-family: 'Special Elite', cursive;
+}
+
+@media all and (min-width: 600px) {
+  /* for desktop */
+
+  h1 {
+  border: 5px dashed #00A378;
+  padding: 10px;
+  margin-left: 200px;
+  margin-right: 200px;
+  background: white;
+  }
+  h2 {
+  border: 5px dashed #00A378;
+  padding: 10px;
+  margin-left: 200px;
+  margin-right: 200px;
+  background: white;
+  }
+  .button {
+  border: 5px dashed #00A378;
+  padding: 10px;
+  margin-left: 200px;
+  margin-right: 200px;
+  background: white;
+  }
+}
+
+@media all and (max-width: 600px) {
+  /* for mobile */
+	.button {
+    border: 5px dashed #00A378;
+    padding: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+    background: white;
+    height: 200px;
+	}
+  h1 {
+    border: 5px dashed #00A378;
+    padding: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+    background: white;
+    font-size: 15px;
+  }
+
+  h2 {
+    border: 5px dashed #00A378;
+    padding: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+    background: white;
+    font-size: 10px;
+  }
+h3 {
+  font-size: 5px
+}
+}
