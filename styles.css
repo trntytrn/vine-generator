@@ -28,14 +28,22 @@ font-family: 'Special Elite', cursive;
   margin-right: 200px;
   background: white;
   }
-}
-
-/* @media all and (max-width: 600px) {
+  .clear {
+  border: 5px dashed #00A378;
+  padding: 10px;
+  margin-left: 200px;
+  margin-right: 200px;
+  background: white;
+  width: 200px;
+  font-size: 20px;
+  font-family: 'Special Elite', cursive;
+  }
+ @media all and (max-width: 600px) {
   /* for mobile */
-	.button {
+	 .button {
     border: 5px dashed #00A378;
     padding: 10px;
-/*     margin-left: 200px;
+    /* margin-left: 200px;
     margin-right: 200px; */
     background: white;
     height: 200px;
@@ -43,7 +51,7 @@ font-family: 'Special Elite', cursive;
   h1 {
     border: 5px dashed #00A378;
     padding: 10px;
-/*     margin-left: 200px;
+    /* margin-left: 200px;
     margin-right: 200px; */
     background: white;
     font-size: 15px;
@@ -52,7 +60,7 @@ font-family: 'Special Elite', cursive;
   h2 {
     border: 5px dashed #00A378;
     padding: 10px;
-/*     margin-left: 200px;
+    /* margin-left: 200px;
     margin-right: 200px; */
     background: white;
     font-size: 10px;
@@ -60,5 +68,14 @@ font-family: 'Special Elite', cursive;
 h3 {
   font-size: 5px
 }
+.clear {
+border: 5px dashed #00A378;
+padding: 10px;
+margin-left: 200px;
+margin-right: 200px;
+background: white;
+width: 200px;
+font-family: 'Special Elite', cursive;
+font-size: 10px;
 }
- */
+}
